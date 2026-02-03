@@ -41,10 +41,10 @@ Here are some of the projects I’ve worked on and hands on experience skills
 
 | **Name**      | **Result**               |
 |---------------|---------------------------|
-| Cisco Certified Network Professional - Enterprise Core (350-401)         | [Passed](https://www.credly.com/badges/ba8c6bdd-1b09-452c-85e2-ccb1194a8dbe/linked_in_profile)|
-| CompTIA Security+ (SY0-701) | [Passed](https://www.credly.com/badges/80e68d72-07ad-4725-8a79-3662fe47b335/linked_in_profile) |
-| Cisco Certified Network Associate (200-301) | [Passed](https://www.credly.com/badges/a418bfb1-90a4-44b1-b7a9-6d30c63937e8) |
-| Google Cybersecurity | [Passed](https://www.coursera.org/account/accomplishments/professional-cert/QD9PYQ8B3LHV) |
+| <img src="https://img.shields.io/badge/CCNP--ENCOR%20(350--401)-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNP ENCOR" /> | [Passed](https://www.credly.com/badges/ba8c6bdd-1b09-452c-85e2-ccb1194a8dbe/linked_in_profile)|
+| <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> | [Passed](https://www.credly.com/badges/80e68d72-07ad-4725-8a79-3662fe47b335/linked_in_profile) |
+| <img src="https://img.shields.io/badge/CCNA%20(200--301)-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA 200-301" /> | [Passed](https://www.credly.com/badges/a418bfb1-90a4-44b1-b7a9-6d30c63937e8) |
+| <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity" /> | [Passed](https://www.coursera.org/account/accomplishments/professional-cert/QD9PYQ8B3LHV) |
 ---
 
 ### SIEM
