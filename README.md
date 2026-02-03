@@ -17,7 +17,6 @@ I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a pa
 <h3 align="left">Skill & Tools</h3>
 <p align="left">
   <a href="https://www.nist.gov/privacy-framework/nist-sp-800-61" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nist/nist-ar21.svg" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="40" height="40"/> 
 </a>
