@@ -19,15 +19,11 @@ I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a pa
   <a href="https://www.nist.gov/privacy-framework/nist-sp-800-61" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nist/nist-ar21.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" width="40" height="40"/> </a> 
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
-  <a href="https://www.snort.org/snort3" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" alt="snort" width="40" height="40"/> </a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> </p>
-
-
+  
 ---
 
 ## 🚀 My LAB Projects
@@ -43,11 +39,12 @@ Here are some of the projects I’ve worked on and hands on experience skills
 ## 🚀 My Certifications
 Here are some of the projects I’ve worked on and hands on experience skills
 
-| **Name**      | **Details**               |
+| **Name**      | **Result**               |
 |---------------|---------------------------|
-| Active Directory LAB           | [Detail](https://github.com/arkaryeyintaung/Active-Directory-LAB)|
-| IP Service Level Agreement | [Detail](https://github.com/arkaryeyintaung/IP_Service_Level_Agreement) |
-| Vulnerability Assessment In Organization | [Detail](https://github.com/arkaryeyintaung/Vulnerability_Assessment_In_Organization) |
+| Cisco Certified Network Professional - Enterprise Core (350-401)         | [Passed](https://www.credly.com/badges/ba8c6bdd-1b09-452c-85e2-ccb1194a8dbe/linked_in_profile)|
+| CompTIA Security+ (SY0-701) | [Passed](https://www.credly.com/badges/80e68d72-07ad-4725-8a79-3662fe47b335/linked_in_profile) |
+| Cisco Certified Network Associate (200-301) | [Passed](https://www.credly.com/badges/a418bfb1-90a4-44b1-b7a9-6d30c63937e8) |
+| Google Cybersecurity | [Passed](https://www.coursera.org/account/accomplishments/professional-cert/QD9PYQ8B3LHV) |
 ---
 
 ### SIEM
@@ -64,8 +61,8 @@ Here are some of the projects I’ve worked on and hands on experience skills
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-0078D4?&style=for-the-badge&logo=Microsoft-Defender&logoColor=white" alt="Microsoft Defender"/>
+    <img src="https://img.shields.io/badge/-Trend_Micro-D71921?style=for-the-badge&logo=Trend-Micro&logoColor=white" alt="Trend Micro"/>
 </div>
 
 ---
