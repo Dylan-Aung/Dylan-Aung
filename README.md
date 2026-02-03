@@ -33,7 +33,7 @@ Here are some of the projects I’ve worked on and hands on experience skills
 
 | **Name**      | **Details**               |
 |---------------|---------------------------|
-| Active Directory LAB           | [Detail](https://github.com/arkaryeyintaung/Active-Directory-LAB)|
+| RDP Protect Using Cisco-Duo MFA | [Detail](https://github.com/Dylan-Aung/RDP-Protect-Using-Cisco-Duo-MFA)|
 | IP Service Level Agreement | [Detail](https://github.com/arkaryeyintaung/IP_Service_Level_Agreement) |
 | Vulnerability Assessment In Organization | [Detail](https://github.com/arkaryeyintaung/Vulnerability_Assessment_In_Organization) |
 ---
