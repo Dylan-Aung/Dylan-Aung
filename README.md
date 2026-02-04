@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile! Hello, I'm Dylan! 👋
 
-I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a passion for protecting systems and networks.  
+I'm a **Senior SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a passion for protecting systems and networks.  
 
 - 🔍 I specialize in **Incident Response**, **Networking** and **IT Support** 
 - 🌱 Currently learning **Practical Ethical Hacking** and **Practical Junior Penetration Testing** course from TCM
