@@ -32,7 +32,7 @@ Here are some of the projects I’ve worked on and hands on experience skills
 
 | **Name**      | **Details**               |
 |---------------|---------------------------|
-| Active Directory Lab | [In Progress](https://github.com/Dylan-Aung/SOC-Automation-Project) |
+| Active Directory Lab | [In Progress](https://github.com/Dylan-Aung/Active-Directory-Lab) |
 | SOC Automation Project | [In Progress](https://github.com/Dylan-Aung/SOC-Automation-Project) |
 | RDP Protect Using Cisco-Duo MFA | [Detail](https://github.com/Dylan-Aung/RDP-Protect-Using-Cisco-Duo-MFA)|
 | Vulnerability Assessment In Organization | [Detail](https://github.com/Dylan-Aung/Vulnerability-Assessment-In-Organization) |
